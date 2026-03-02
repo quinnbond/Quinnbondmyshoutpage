@@ -9,6 +9,7 @@ body {
 		linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
 		url("weed2.jpg");
 	background-repeat: repeat;
+	background-attachment: fixed;
 }
 
 p, h3, h1, h2, h4, h5, h6, a, div {
