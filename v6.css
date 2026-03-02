@@ -6,7 +6,7 @@
 
 body {
 	background-image: 
-		linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+		linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)),
 		url("weed2.jpg");
 	background-repeat: repeat;
 }
